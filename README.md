@@ -47,3 +47,35 @@
 5. Remove Outliers (California Dataset): [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab04_DataPrep/Lab4-05_RemoveOutliers_California.ipynb)
 
 6. Assignment - Titanic Data Prep: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab04_DataPrep/Lab4-06_Assignment_TitanicDataPrep_ToStudent.ipynb)
+
+### Lab05: ML
+
+1. Decision Tree / Random Forest: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-01_DecisionTree_RandomForest.ipynb)
+
+2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-02_LinearRegression.ipynb)
+
+3. Logistic Regression: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-03_LogisticRegression.ipynb)
+
+4. Neural Network: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-04_NeuralNetwork.ipynb)
+
+5. K-Nearest Neighbors: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-05_KNearestNeighbors.ipynb)
+
+6. SVM: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-06_SVM.ipynb)
+
+7. Save / Load Model: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-07_Save_Load_Model.ipynb)
+
+8. K-Means Clustering: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-08_KMeans_Clustering.ipynb)
+
+9. Market Basket: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-09_MarketBasket.ipynb)
+
+### Lab06: Advanced Analytics
+
+1. Image Classification CIFAR10 CNN: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab06_AdvancedAnalytics/Lab6-01_ImageClassification_CIFAR10_CNN.ipynb)
+
+2. Image Classification Animal EfficientNet B0: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab06_AdvancedAnalytics/Lab6-02_ImageClassification_Animal_EfficientNetB0.ipynb)
+
+3. Time Series Forecasting LSTM GRU: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab06_AdvancedAnalytics/Lab6-03_TimeSeriesForecasting_LSTM_GRU.ipynb)
+
+4. ChatGPT Completion: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab06_AdvancedAnalytics/Lab6-04_ChatGPT_Completion.ipynb)
+
+5. Dall-E: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab06_AdvancedAnalytics/Lab6-05_Dall-E.ipynb)
