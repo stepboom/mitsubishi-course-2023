@@ -50,7 +50,7 @@
 
 ### Lab05: ML
 
-1. Decision Tree / Random Forest: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-01_DecisionTree_RandomForest.ipynb)
+1. Decision Tree: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-01_DecisionTree.ipynb)
 
 2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab05_ML/Lab5-02_LinearRegression.ipynb)
 
