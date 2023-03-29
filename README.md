@@ -79,3 +79,13 @@
 4. ChatGPT Completion: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab06_AdvancedAnalytics/Lab6-04_ChatGPT_Completion.ipynb)
 
 5. Dall-E: [![Open In Colab](https://raw.githubusercontent.com/stepboom/mitsubishi-course-2023/main/img/colab-badge.svg)](https://colab.research.google.com/github/stepboom/mitsubishi-course-2023/blob/main/code/Lab06_AdvancedAnalytics/Lab6-05_Dall-E.ipynb)
+
+### Lab07: Azure ML
+
+- [Download lab files as zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/stepboom/mitsubishi-course-2023/tree/main/code/Lab07_AzureML)
+
+### Lab08: Azure Data Pipeline
+
+- SQL Lab
+- IMDB Lab
+- [Download lab files as zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/stepboom/mitsubishi-course-2023/tree/main/code/Lab08_AzureDataPipeline)
