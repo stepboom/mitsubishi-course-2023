@@ -82,10 +82,10 @@
 
 ### Lab07: Azure ML
 
-- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/stepboom/mitsubishi-course-2023/tree/main/code/Lab07_AzureML" target="_blank">Download lab files as zip</a>
+- [Download lab files as zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/stepboom/mitsubishi-course-2023/tree/main/code/Lab07_AzureML)
 
 ### Lab08: Azure Data Pipeline
 
 - SQL Lab
 - IMDB Lab
-- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/stepboom/mitsubishi-course-2023/tree/main/code/Lab08_AzureDataPipeline" target="_blank">Download lab files as zip</a>
+- [Download lab files as zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/stepboom/mitsubishi-course-2023/tree/main/code/Lab08_AzureDataPipeline)
